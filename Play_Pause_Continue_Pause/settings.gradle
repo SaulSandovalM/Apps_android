@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Play_Pause_Continue_Pause'
